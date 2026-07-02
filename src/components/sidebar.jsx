@@ -10,9 +10,9 @@ function Sidebar() {
   ];
 
   return (
-    <div className="w-60 bg-white border rounded p-5">
+    <div className="w-60 bg-white border border-slate-200 rounded-2xl p-5 shadow-sm">
 
-      <h2 className="font-bold text-lg mb-5">
+      <h2 className="font-bold text-lg mb-5 text-slate-900">
         Categories
       </h2>
 
